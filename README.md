@@ -2,6 +2,7 @@
 Welcome! This repository contains my technical writing as I build a web3-focused portfolio.
 ## Articles
 - [EVM Introduction](https://github.com/Ogbononso/web3-docs-learning/blob/master/evm-article.md)
+- [MetaMask Installation and Connection to dApp](https://github.com/Ogbononso/web3-docs-learning/blob/master/02-install-metamask.md)
 ## About Me
 I'm learning to write high-quality technical documentation for blockchain/web3 technologies. My goal is to become a top tier web3 technical writer with in-depth knowledge of tools, code, and developer workflow.
 
